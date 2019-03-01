@@ -2,18 +2,16 @@
 
 ## Goal
 
-First, the student must:
-
-- Generate (randomly) a **2D donjon**.
-- Add (randomly) two characters in that donjon.
-  - A **Knight** and a **Princess**.
-
-The goal of this assignement is to find build an algorythm that finds the shortest path between these two characters (if possible).
+1. Generate a donjon with walls.
+2. Place **2 characters** randomly.
+3. Find the **shortest path** between these **2 characters**.
 
 ## Content
 
 - Description
 - Evaluation Grid
+
+Website available at [https://mihai-teaching.github.io/js_princess/](https://mihai-teaching.github.io/js_princess/).
 
 ## Source
 
